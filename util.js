@@ -16,6 +16,7 @@ UTIL.ALERT = {
 }
 
 //sample usage
-//UTIL.ALERT.ERROR();
+UTIL.ALERT.ERROR();
+
 
 

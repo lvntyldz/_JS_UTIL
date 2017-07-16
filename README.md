@@ -2,4 +2,4 @@
 Javascript UTIL project, that contain common functions.
 
 
-lorem__ impsum
+lorem <br> impsum

@@ -1,4 +1,4 @@
-# _JS_UTIL
+# JS Util
 Javascript UTIL project, that contain common functions.
 
 
